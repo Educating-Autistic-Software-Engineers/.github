@@ -5,10 +5,7 @@ Welcome to the EdASE Team (Educating Autistic Software Engineers) GitHub reposit
 As part of our initiative, we are developing Collaboration Station, an online block-based coding platform that enables and encourages teamwork and collaboration. This platform is designed to be accessible, user-friendly, and engaging for students with diverse learning styles and abilities.
 
 ## :space_invader: Free Virtual Video Game Coding Camp
-
-EdASE Free Virtual Summer Computer Game Coding Camp is a specialized program designed for high school students with autism who have an interest in video game design and development. This year marks our fourth virtual camp.
-
-The camp exposes students to high-level video game design and development, providing opportunities for networking with peers. As students develop their video games, they improve their teamwork skills, such as communication and collaboration. Throughout the camp, campers learn high-level processes of software development, game development, visual art design, music creation, interpersonal communication, collaboration, and ultimately create their own game from scratch.
+The camp exposes students to high-level video game design and development, providing opportunities for networking with peers. As students develop their video games, they improve their teamwork skills, such as communication and collaboration. Throughout the camp, campers learn high-level processes of software development, game development, visual art design, music creation, interpersonal communication, collaboration, and ultimately create their own game from scratch. This year marks our fourth virtual camp.
 
 Interested in camp? [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSe-zAOsajRC1aDD0kh8IVNtpVSzj4ruXiilTy7xWCOf2amRow/viewform)
 
