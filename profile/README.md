@@ -27,9 +27,9 @@ Features of Collaboration Station include:
 
 We are always looking for passionate individuals who share our vision and are interested in contributing to the growth and development of EdASE and Collaboration Station. If you would like to get involved, please consider the following options:
 
-Volunteer: Join us as a volunteer during our virtual camp.
-Sponsor: Help us fund swag for volunteers by becoming a sponsor.
-Contribute: Provide feedback, report bugs, or contribute to the development of Collaboration Station through this GitHub repository.
+* Volunteer: Join us as a volunteer during our virtual camp.
+* Sponsor: Help us fund swag for volunteers by becoming a sponsor.
+* Contribute: Provide feedback, report bugs, or contribute to the development of Collaboration Station through this GitHub repository.
 
 
 
