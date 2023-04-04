@@ -1,6 +1,6 @@
 # Educating Autistic Software Engineers (EdASE)
 
-Welcome to the EdASE Team (Educating Autistic Software Engineers) GitHub repository! This project is funded by NSF [#2148720](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148720&HistoricalAwards=false)
+Welcome to the EdASE Team (Educating Autistic Software Engineers) GitHub repository! This project is funded by NSF award [#2148720](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148720&HistoricalAwards=false)
 
 As part of our initiative, we are developing Collaboration Station, an online block-based coding platform that enables and encourages teamwork and collaboration. This platform is designed to be accessible, user-friendly, and engaging for students with diverse learning styles and abilities.
 
