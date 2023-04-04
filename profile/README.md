@@ -29,5 +29,6 @@ We are always looking for passionate individuals who share our vision and are in
 * Contribute: Provide feedback, report bugs, or contribute to the development of Collaboration Station through this GitHub repository.
 
 
-
+## :envelope: Contact Us
+Email Dr. Paige Rodeghero at [prodegh@clemson.edu](prodegh@clemson.edu)
 
